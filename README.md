@@ -12,7 +12,7 @@ Apresentação de uma Banda ( The-Offspring )
 
 ## DESENVOLVIMENTO
 
-> Status: Finalizado ✔️
+> Status: Finalizado ✔️.
 
 ## Requesitos
 
