@@ -6,7 +6,7 @@ Este é um projeto simples fala sobre uma banda que gosto muito.
 
 ## Funcionalidades:
 
-Apresentação de uma Banda ( The-Offspring )
+Apresentação de uma Banda ( The-Offspring ).
 
 ![image](https://github.com/Hkaua/The-Offspring/assets/115200562/ca776882-1b6a-4131-8178-5107e8a890ba)
 
